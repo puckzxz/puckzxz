@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ### 📖 About me
-👋Hello!  I'm a software engineer who primarily focuses on full-stack web development but I also enjoy both mobile and desktop development too.  I've done some game development in the past which may have turned into a slight obsession with game engines
+👋Hello!  I'm a software engineer who primarily focuses on full-stack web development but I also enjoy both mobile and desktop development.  I've done some game development in the past too which may have turned into a slight obsession with game engines
 
 ### 📫 Contact
 [![Gmail](https://img.shields.io/badge/-gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chris.bockover97@gmail.com)
